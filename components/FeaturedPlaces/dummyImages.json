@@ -1,0 +1,32 @@
+[
+    {
+      "id": 3,
+      "nome": "Peschiera",
+      "url": "https://www.catchyourticket.com/img/destinazioni/3.jpg",
+      "slug": "peschiera"
+    },
+    {
+      "id": 5,
+      "nome": "Bardolino",
+      "url": "https://www.catchyourticket.com/img/destinazioni/5.jpg",
+      "slug": "bardolino"
+    },
+    {
+      "id": 8,
+      "nome": "Brenzone del Garda",
+      "url": "https://www.catchyourticket.com/img/destinazioni/8.jpg",
+      "slug": "brenzone-del-garda"
+    },
+    {
+      "id": 11,
+      "nome": "Arco",
+      "url": "https://www.catchyourticket.com/img/destinazioni/11.jpg",
+      "slug": "arco"
+    },
+    {
+      "id": 14,
+      "nome": "Tremosine sul Garda",
+      "url": "https://www.catchyourticket.com/img/destinazioni/14.jpg",
+      "slug": "tremosine-sul-garda"
+    }
+  ]
