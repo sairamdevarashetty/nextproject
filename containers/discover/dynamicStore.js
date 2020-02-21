@@ -1,5 +1,5 @@
 import {discoverReducer} from './reducer';
-import saga from './saga';
+import {fetchDiscoverPhotos} from './saga';
 
 export function getDiscoverModule() {
     return {
@@ -7,6 +7,6 @@ export function getDiscoverModule() {
         reducerMap: {
             discoverState: discoverReducer,
         },
-        sagas: [saga],
+        sagas: [fetchDiscoverPhotos],
     };
 }
